@@ -1,1 +1,3 @@
 This is a file in feature1
+
+Bug fixed
